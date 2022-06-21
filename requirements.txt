@@ -1,5 +1,5 @@
 control==0.8.1
 matplotlib==3.0.3
-numpy==1.16.2
+numpy==1.22.0
 PyQt5==5.12.1
 pytest==4.4.0
